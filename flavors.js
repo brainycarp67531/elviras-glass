@@ -20,7 +20,7 @@ const flavors = [
     emoji: "💛",
     name: "Cookie dough",
     desc: "En amerikansk favorit med kakdeg.",
-    allergens: ["Gluten"],
+    allergens: ["Gluten", "Soja"],
     accent: "yellow-sky"
   },
   {
